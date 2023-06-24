@@ -1,4 +1,4 @@
-![Home (2)](https://github.com/ardakuvanc3/Turkiye-Earthquake-Notifications/assets/122490388/01852914-a04d-4164-a46c-111e0e8ea74e)
+![Home (3)](https://github.com/ardakuvanc3/Turkiye-Earthquake-Notifications/assets/122490388/1b9c6c3c-c2d4-4814-8ae6-50f10019cc62)
 
 <h1 align="center">Hi 👋, I'm Arda!</h1>
 <h3 align="center">A passionate Frontend and Game Developer from Turkey!</h3>
