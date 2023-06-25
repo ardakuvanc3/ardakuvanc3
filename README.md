@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ardakuvanc3@gmail.com**
 
-- 📄 Know about my experiences [www.ardakuvanc.blogspot](www.ardakuvanc.blogspot)
+- 📄 Know about my experiences [https://ardakuvanc3.wixsite.com/ardakuvanc](https://ardakuvanc3.wixsite.com/ardakuvanc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
