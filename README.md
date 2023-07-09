@@ -1,4 +1,3 @@
-![Fotoram io](https://github.com/ardakuvanc3/Turkiye-Earthquake-Notifications/assets/122490388/74c6d48b-48ab-4b26-913f-10b46c1314b5)
 
 <h1 align="center">Hi 👋, I'm Arda!</h1>
 <h3 align="center">A passionate Frontend and Artificial İntelligence  from Turkey!</h3>
