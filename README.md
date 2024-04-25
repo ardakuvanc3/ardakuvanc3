@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Arda!</h1>
-<h3 align="center">A passionate Frontend and Artificial İntelligence  from Turkey!</h3>
+<h3 align="center">A passionate Mobile Development and Artificial İntelligence  from Turkey!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardakuvanc3&label=Profile%20views&color=0e75b6&style=flat" alt="ardakuvanc3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardakuvanc3" alt="ardakuvanc3" /></a> </p>
 
-- 🔭 I’m currently working on [Python-Virtual-Painter](https://github.com/ardakuvanc3/Python-Virtual-Painter)
+- 🔭 I’m currently working on (Flutter Mobile App Clone)
 
-- 🌱 I’m currently learning **Django and React Native**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ardakuvanc3](https://github.com/ardakuvanc3)
 
-- 💬 Ask me about **javascript,python ets.**
+- 💬 Ask me about **dart,python ets.**
 
 - 📫 How to reach me **ardakuvanc3@gmail.com**
 
