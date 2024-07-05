@@ -4,7 +4,7 @@ Hi 👋 My name is Arda Kuvanç
 Mobile Developer and Designer
 -----------------------------
 
-I've been learning to code for 5 years. I started with HTML, but have really found a passion for mobile (flutter) development.
+I've been learning to code for 5 years. I started with HTML, but have really found a passion for mobile (flutter  and java&kotlin) development.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [My Website](http://ardakuvanc3.wixsite.com/ardakuvanc)
