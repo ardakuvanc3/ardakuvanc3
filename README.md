@@ -7,7 +7,6 @@ Mobile Developer and Designer
 I've been learning to code for 5 years. I started with HTML, but have really found a passion for mobile (flutter  and java&kotlin) development.
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [My Website](http://ardakuvanc3.wixsite.com/ardakuvanc)
 * ✉️  You can contact me at [ardakuvanc3@gmail.com](mailto:ardakuvanc3@gmail.com)
 
 ### Skills
